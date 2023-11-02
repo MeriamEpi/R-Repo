@@ -22,9 +22,9 @@ missing_1 <- data_sub %>% filter(missing==1) %>% select(MARRIED, URB_RUR, MAT_AG
 
 # tabulating missingness by CVEXP missing
 count_missing_0 <- apply(missing_0,2,function(x) sum(is.na(x)))
-percent_missing_0 <- count_missing_0/nrow(missing_0)
+percent_missing_0 <- count_missing_0/nrow(missing_0)*100
 sort(percent_missing_0)
 
 count_missing_1 <- apply(missing_1,2,function(x) sum(is.na(x)))
-percent_missing_1 <- count_missing_1/nrow(missing_1)
+percent_missing_1 <- count_missing_1/nrow(missing_1)*100
 sort(percent_missing_1)
