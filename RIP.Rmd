@@ -2,7 +2,8 @@
 title: "GEM Research in Progress"
 author: "Meriam Berka, Dr. Aruna Chandran"
 date: "November 21, 2023"
-output: ioslides_presentation
+output:
+  ioslides_presentation
 ---
 ## Background | Trends in unemployment
 ```{r, plot setup, echo=FALSE, message=FALSE, fig.cap="National unemployment rate from Oct 2003 to Oct 2023"}
@@ -86,9 +87,12 @@ Sensitivity analyses<br>
 -	Modelling as a function of ability to pay bills, a more direct measure of financial hardship
 
 ## Acknowledgements
-- Dr. Aruna Chandran<br><br>
-- The PRAMS Working Group<br><br>
-- The Centers for Disease Control and Prevention
+Dr. Aruna Chandran<br>
+<br>
+The PRAMS Working Group<br>
+<br>
+The Centers for Disease Control and Prevention<br>
+---
 
 
 
