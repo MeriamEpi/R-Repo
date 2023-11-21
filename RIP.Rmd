@@ -39,10 +39,10 @@ ggplotly(p) %>% layout(annotations=list(x = 1, y = -0.1, text ="Data courtesy of
 What is the association between sudden unemployment and birth outcomes in the COVID-19 pandemic?
 
 ## Conceptual framework
-![](Presentation1.png){width=850px}
+![](~/Desktop/thesis/R repo/docs/Presentation1.png){width=850px}
 
 ## DAG
-![](DAG.jpg){width=850px}
+![](~/Desktop/thesis/R repo/docs/DAG.jpg){width=850px}
 
 ## The Data | The Pregnancy Risk Assesment Monitoring System (PRAMS)
 - CDC surveillance project established in 1987
@@ -73,7 +73,7 @@ no = 2,607, yes = 908
 </style>
 
 <div class="container">
-  <img src="Table 0.jpg" width="700px"/>
+  <img src="~/Desktop/thesis/R repo/docs/Table 0.jpg" width="700px"/>
 </div>
 
 ## Analysis plan
@@ -93,10 +93,11 @@ Dr. Aruna Chandran<br>
 The PRAMS Working Group<br>
 <br>
 The Centers for Disease Control and Prevention<br>
-
 ---
+
 ![](~/Desktop/thesis/R repo/docs/0_1.jpg){width=700px}
 ---
+
 ![](~/Desktop/thesis/R repo/docs/0_2.jpg){width=700px}
 ---
 ![](~/Desktop/thesis/R repo/docs/0_3.jpg){width=700px}
