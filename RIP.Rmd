@@ -93,7 +93,17 @@ Dr. Aruna Chandran<br>
 The PRAMS Working Group<br>
 <br>
 The Centers for Disease Control and Prevention<br>
+
 ---
+![](~/Desktop/thesis/R repo/docs/0_1.jpg){width=700px}
+---
+![](~/Desktop/thesis/R repo/docs/0_2.jpg){width=700px}
+---
+![](~/Desktop/thesis/R repo/docs/0_3.jpg){width=700px}
+---
+![](~/Desktop/thesis/R repo/docs/0_4.jpg){width=700px}
+---
+
 
 
 
