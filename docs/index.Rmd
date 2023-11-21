@@ -4,6 +4,7 @@ author: "Meriam Berka, Dr. Aruna Chandran"
 date: "November 21, 2023"
 output:
   ioslides_presentation
+output_file: "RIP.html"
 ---
 ## Background | Trends in unemployment
 ```{r, plot setup, echo=FALSE, message=FALSE, fig.cap="National unemployment rate from Oct 2003 to Oct 2023"}
